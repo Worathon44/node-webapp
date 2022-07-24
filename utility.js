@@ -5,9 +5,9 @@ const EXTERNAL_API=""; // put url
 const accessToken=""; // put access token
 const student = {
   student_id: 63365564,
-  name: '', // replace with your full name.
+  name: 'Worathon Mungkampa', // replace with your full name.
   age: 19, // put your age.
-  gender: '', // replace with your gender
+  gender: 'male', // replace with your gender
   department: 'CPE'
 };
 
